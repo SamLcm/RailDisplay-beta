@@ -1,0 +1,202 @@
+/* RailDisplay - NS AMF CTA Type 1
+   Donkerblauwe kast, witte flappen, donkerblauwe tekst, rode vertragingsteksten. */
+
+:root {
+  --cta-case: #0b2350; /* donkerblauwe kast */
+  --cta-case-edge: #071938;
+  --cta-flap-bg: #f5f5f0; /* witte flap */
+  --cta-flap-shadow: #d9d9d2;
+  --cta-text: #0b2350; /* donkerblauwe tekst */
+  --cta-text-warn: #b5121b; /* rode vertragingstekst */
+  --cta-seam: rgba(0, 0, 0, 0.35);
+  --cta-font: "Helvetica Neue", Arial, "Liberation Sans", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  background: #1b1b1b;
+  padding: 2rem 1rem;
+  font-family: var(--cta-font);
+}
+
+#stage {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+/* ---------- Kast ---------- */
+
+.cta {
+  --flap-h: clamp(1.6rem, 3.4vw, 2.5rem);
+  width: min(96vw, 1100px);
+  background: var(--cta-case);
+  border: 6px solid var(--cta-case-edge);
+  border-radius: 4px;
+  padding: clamp(0.6rem, 1.6vw, 1.2rem);
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+
+.cta__grid {
+  display: grid;
+  grid-template-columns: 1.1fr 0.55fr 0.55fr 2.9fr 0.85fr;
+  grid-template-areas:
+    "vertrek uur min kop spoor"
+    "l1 l1 l1 r1 spoor"
+    "l2 l2 l2 r2 spoor"
+    "l3 l3 l3 r3 spoor";
+  gap: 3px;
+}
+
+/* ---------- Vaste panelen (geen cassette) ---------- */
+
+.static-panel {
+  background: var(--cta-case);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+}
+
+.static-panel--vertrek {
+  font-size: clamp(0.8rem, 1.6vw, 1.1rem);
+  padding-left: 0.3em;
+}
+
+.static-panel--spoor {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-left: 3px solid var(--cta-case-edge);
+  gap: 0.15em;
+}
+
+.static-panel__label {
+  font-size: clamp(0.55rem, 1vw, 0.75rem);
+  opacity: 0.8;
+}
+
+.static-panel__value {
+  font-size: clamp(1.4rem, 3vw, 2.2rem);
+}
+
+/* ---------- Flap-cassette ---------- */
+
+.flap {
+  display: flex;
+  flex-direction: column;
+  background: var(--cta-case);
+}
+
+.flap__zone {
+  position: relative;
+  height: var(--flap-h);
+  overflow: hidden;
+  perspective: 300px;
+}
+
+.flap__inner {
+  position: absolute;
+  inset: 0;
+  transform-style: preserve-3d;
+  transition: transform 90ms linear;
+  transform: rotateX(0deg);
+}
+
+.flap--no-transition {
+  transition: none !important;
+}
+
+.flap--flipped {
+  transform: rotateX(-180deg);
+}
+
+.flap__face {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  background: var(--cta-flap-bg);
+  color: var(--cta-text);
+  backface-visibility: hidden;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.flap__face--warn {
+  color: var(--cta-text-warn);
+}
+
+.flap__face--back {
+  transform: rotateX(180deg);
+}
+
+.flap__text {
+  padding: 0 0.35em;
+  font-size: clamp(0.72rem, 1.55vw, 1.05rem);
+  font-weight: 600;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+
+.flap--digits .flap__text {
+  font-variant-numeric: tabular-nums;
+  font-size: clamp(1.1rem, 2.6vw, 1.9rem);
+  font-weight: 700;
+  text-align: center;
+  padding: 0;
+}
+
+.flap__seam {
+  height: 1px;
+  background: var(--cta-seam);
+  flex: none;
+}
+
+/* KOP en TREIN-cassettes krijgen wat extra ademruimte per regel */
+.flap[data-name="KOP"] .flap__text,
+.flap[data-name^="L"] .flap__text,
+.flap[data-name^="R"] .flap__text {
+  font-size: clamp(0.68rem, 1.35vw, 0.95rem);
+}
+
+/* ---------- Bediening (demo) ---------- */
+
+#controls {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: #eee;
+  font-family: var(--cta-font);
+}
+
+#controls button {
+  background: var(--cta-case);
+  color: #fff;
+  border: 1px solid var(--cta-case-edge);
+  border-radius: 3px;
+  padding: 0.5em 1em;
+  cursor: pointer;
+  font-family: inherit;
+}
+
+#controls button:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+#controls button:not(:disabled):hover {
+  background: #123067;
+}

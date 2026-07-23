@@ -1,0 +1,2327 @@
+{
+  "flapCount": 64,
+  "cassettes": {
+    "UUR": [
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "0",
+        "bottom": ""
+      },
+      {
+        "top": "1",
+        "bottom": ""
+      },
+      {
+        "top": "2",
+        "bottom": ""
+      },
+      {
+        "top": "3",
+        "bottom": ""
+      },
+      {
+        "top": "4",
+        "bottom": ""
+      },
+      {
+        "top": "5",
+        "bottom": ""
+      },
+      {
+        "top": "6",
+        "bottom": ""
+      },
+      {
+        "top": "7",
+        "bottom": ""
+      },
+      {
+        "top": "8",
+        "bottom": ""
+      },
+      {
+        "top": "9",
+        "bottom": ""
+      },
+      {
+        "top": "10",
+        "bottom": ""
+      },
+      {
+        "top": "11",
+        "bottom": ""
+      },
+      {
+        "top": "12",
+        "bottom": ""
+      },
+      {
+        "top": "13",
+        "bottom": ""
+      },
+      {
+        "top": "14",
+        "bottom": ""
+      },
+      {
+        "top": "15",
+        "bottom": ""
+      },
+      {
+        "top": "16",
+        "bottom": ""
+      },
+      {
+        "top": "17",
+        "bottom": ""
+      },
+      {
+        "top": "18",
+        "bottom": ""
+      },
+      {
+        "top": "19",
+        "bottom": ""
+      },
+      {
+        "top": "20",
+        "bottom": ""
+      },
+      {
+        "top": "21",
+        "bottom": ""
+      },
+      {
+        "top": "22",
+        "bottom": ""
+      },
+      {
+        "top": "23",
+        "bottom": ""
+      }
+    ],
+    "MIN": [
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "00",
+        "bottom": ""
+      },
+      {
+        "top": "01",
+        "bottom": ""
+      },
+      {
+        "top": "02",
+        "bottom": ""
+      },
+      {
+        "top": "03",
+        "bottom": ""
+      },
+      {
+        "top": "04",
+        "bottom": ""
+      },
+      {
+        "top": "05",
+        "bottom": ""
+      },
+      {
+        "top": "06",
+        "bottom": ""
+      },
+      {
+        "top": "07",
+        "bottom": ""
+      },
+      {
+        "top": "08",
+        "bottom": ""
+      },
+      {
+        "top": "09",
+        "bottom": ""
+      },
+      {
+        "top": "10",
+        "bottom": ""
+      },
+      {
+        "top": "11",
+        "bottom": ""
+      },
+      {
+        "top": "12",
+        "bottom": ""
+      },
+      {
+        "top": "13",
+        "bottom": ""
+      },
+      {
+        "top": "14",
+        "bottom": ""
+      },
+      {
+        "top": "15",
+        "bottom": ""
+      },
+      {
+        "top": "16",
+        "bottom": ""
+      },
+      {
+        "top": "17",
+        "bottom": ""
+      },
+      {
+        "top": "18",
+        "bottom": ""
+      },
+      {
+        "top": "19",
+        "bottom": ""
+      },
+      {
+        "top": "20",
+        "bottom": ""
+      },
+      {
+        "top": "21",
+        "bottom": ""
+      },
+      {
+        "top": "22",
+        "bottom": ""
+      },
+      {
+        "top": "23",
+        "bottom": ""
+      },
+      {
+        "top": "24",
+        "bottom": ""
+      },
+      {
+        "top": "25",
+        "bottom": ""
+      },
+      {
+        "top": "26",
+        "bottom": ""
+      },
+      {
+        "top": "27",
+        "bottom": ""
+      },
+      {
+        "top": "28",
+        "bottom": ""
+      },
+      {
+        "top": "29",
+        "bottom": ""
+      },
+      {
+        "top": "30",
+        "bottom": ""
+      },
+      {
+        "top": "31",
+        "bottom": ""
+      },
+      {
+        "top": "32",
+        "bottom": ""
+      },
+      {
+        "top": "33",
+        "bottom": ""
+      },
+      {
+        "top": "34",
+        "bottom": ""
+      },
+      {
+        "top": "35",
+        "bottom": ""
+      },
+      {
+        "top": "36",
+        "bottom": ""
+      },
+      {
+        "top": "37",
+        "bottom": ""
+      },
+      {
+        "top": "38",
+        "bottom": ""
+      },
+      {
+        "top": "39",
+        "bottom": ""
+      },
+      {
+        "top": "40",
+        "bottom": ""
+      },
+      {
+        "top": "41",
+        "bottom": ""
+      },
+      {
+        "top": "42",
+        "bottom": ""
+      },
+      {
+        "top": "43",
+        "bottom": ""
+      },
+      {
+        "top": "44",
+        "bottom": ""
+      },
+      {
+        "top": "45",
+        "bottom": ""
+      },
+      {
+        "top": "46",
+        "bottom": ""
+      },
+      {
+        "top": "47",
+        "bottom": ""
+      },
+      {
+        "top": "48",
+        "bottom": ""
+      },
+      {
+        "top": "49",
+        "bottom": ""
+      },
+      {
+        "top": "50",
+        "bottom": ""
+      },
+      {
+        "top": "51",
+        "bottom": ""
+      },
+      {
+        "top": "52",
+        "bottom": ""
+      },
+      {
+        "top": "53",
+        "bottom": ""
+      },
+      {
+        "top": "54",
+        "bottom": ""
+      },
+      {
+        "top": "55",
+        "bottom": ""
+      },
+      {
+        "top": "56",
+        "bottom": ""
+      },
+      {
+        "top": "57",
+        "bottom": ""
+      },
+      {
+        "top": "58",
+        "bottom": ""
+      },
+      {
+        "top": "59",
+        "bottom": ""
+      }
+    ],
+    "KOP": [
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Internationale trein",
+        "bottom": ""
+      },
+      {
+        "top": "Intercity",
+        "bottom": ""
+      },
+      {
+        "top": "Stoptrein",
+        "bottom": ""
+      },
+      {
+        "top": "Sneltrein",
+        "bottom": ""
+      },
+      {
+        "top": "Let op omroepbericht",
+        "bottom": ""
+      },
+      {
+        "top": "Niet instappen",
+        "bottom": ""
+      },
+      {
+        "top": "Extra trein voor",
+        "bottom": "gezelschapsvervoer"
+      },
+      {
+        "top": "Extra trein",
+        "bottom": ""
+      },
+      {
+        "top": "IC-trein met toeslag",
+        "bottom": ""
+      },
+      {
+        "top": "D-trein met toeslag",
+        "bottom": ""
+      },
+      {
+        "top": "Vertraging ongeveer",
+        "bottom": "10 minuten"
+      },
+      {
+        "top": "Intercity",
+        "bottom": "Vertraging ±10 minuten"
+      },
+      {
+        "top": "Stoptrein",
+        "bottom": "Vertraging ±10 minuten"
+      },
+      {
+        "top": "Sneltrein",
+        "bottom": "Vertraging ±10 minuten"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Vertraging ongeveer",
+        "bottom": "15 minuten"
+      },
+      {
+        "top": "Intercity",
+        "bottom": "Vertraging ±15 minuten"
+      },
+      {
+        "top": "Stoptrein",
+        "bottom": "Vertraging ±15 minuten"
+      },
+      {
+        "top": "Sneltrein",
+        "bottom": "Vertraging ±15 minuten"
+      },
+      {
+        "top": "EC-trein met toeslag",
+        "bottom": ""
+      },
+      {
+        "top": "Vertraging ongeveer",
+        "bottom": "20 minuten"
+      },
+      {
+        "top": "Intercity",
+        "bottom": "Vertraging ±20 minuten"
+      },
+      {
+        "top": "Stoptrein",
+        "bottom": "Vertraging ±20 minuten"
+      },
+      {
+        "top": "Sneltrein",
+        "bottom": "Vertraging ±20 minuten"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Vertraging ongeveer",
+        "bottom": "25 minuten"
+      },
+      {
+        "top": "Intercity",
+        "bottom": "Vertraging ±25 minuten"
+      },
+      {
+        "top": "Stoptrein",
+        "bottom": "Vertraging ±25 minuten"
+      },
+      {
+        "top": "Sneltrein",
+        "bottom": "Vertraging ±25 minuten"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Vertraging ongeveer",
+        "bottom": "30 minuten"
+      },
+      {
+        "top": "Intercity",
+        "bottom": "Vertraging ±30 minuten"
+      },
+      {
+        "top": "Stoptrein",
+        "bottom": "Vertraging ±30 minuten"
+      },
+      {
+        "top": "Sneltrein",
+        "bottom": "Vertraging ±30 minuten"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "EC - trein",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Vertraging ongeveer",
+        "bottom": "40 minuten"
+      },
+      {
+        "top": "Intercity",
+        "bottom": "Vertraging ±40 minuten"
+      },
+      {
+        "top": "Stoptrein",
+        "bottom": "Vertraging ±40 minuten"
+      },
+      {
+        "top": "Sneltrein",
+        "bottom": "Vertraging ±40 minuten"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Vertraging ongeveer",
+        "bottom": "5 minuten"
+      },
+      {
+        "top": "Intercity",
+        "bottom": "Vertraging ±5 minuten"
+      },
+      {
+        "top": "Stoptrein",
+        "bottom": "Vertraging ±5 minuten"
+      },
+      {
+        "top": "Sneltrein",
+        "bottom": "Vertraging ±5 minuten"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Vertraging ongeveer",
+        "bottom": "50 minuten"
+      },
+      {
+        "top": "Intercity",
+        "bottom": "Vertraging ±50 minuten"
+      },
+      {
+        "top": "Stoptrein",
+        "bottom": "Vertraging ±50 minuten"
+      },
+      {
+        "top": "Sneltrein",
+        "bottom": "Vertraging ±50 minuten"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Vertraging meer",
+        "bottom": "dan 60 minuten"
+      },
+      {
+        "top": "Intercity",
+        "bottom": "Vertraging meer dan 60 min."
+      },
+      {
+        "top": "Stoptrein",
+        "bottom": "Vertraging meer dan 60 min."
+      },
+      {
+        "top": "Sneltrein",
+        "bottom": "Vertraging meer dan 60 min."
+      },
+      {
+        "top": "Sneltrein",
+        "bottom": "Vertraging ±60 minuten"
+      },
+      {
+        "top": "Vertraging ongeveer",
+        "bottom": "60 minuten"
+      },
+      {
+        "top": "Intercity",
+        "bottom": "Vertraging ±60 minuten"
+      },
+      {
+        "top": "Stoptrein",
+        "bottom": "Vertraging ±60 minuten"
+      }
+    ],
+    "L1": [
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Baarn, Hilversum,-Noord",
+        "bottom": "Bussum Zuid, Naarden-Bussum"
+      },
+      {
+        "top": "Amsterdam Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "Hilversum, Amsterdam Centraal",
+        "bottom": "Amsterdam Sloterdijk"
+      },
+      {
+        "top": "Hilversum, Naarden-Bussum",
+        "bottom": "Amsterdam Centraal"
+      },
+      {
+        "top": "Baarn, Hilversum",
+        "bottom": "Bussum Zuid, Naarden-Bussum"
+      },
+      {
+        "top": "Baarn, Hilversum",
+        "bottom": "Amsterdam Centraal,-Sloterdijk"
+      },
+      {
+        "top": "Hilversum, Amsterdam Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "Baarn, Hilversum",
+        "bottom": ""
+      },
+      {
+        "top": "voor: Amsterdam C",
+        "bottom": ""
+      },
+      {
+        "top": "voor: Utrecht CS, Gouda",
+        "bottom": ""
+      },
+      {
+        "top": "voor: Zwolle, Meppel",
+        "bottom": "Steenwijk, Wolvega"
+      },
+      {
+        "top": "voor: Zwolle, Meppel",
+        "bottom": "Steenwijk, Heerenveen"
+      },
+      {
+        "top": "voor: Utrecht Centraal",
+        "bottom": "Rotterdam Alexander"
+      },
+      {
+        "top": "Harderwijk",
+        "bottom": ""
+      },
+      {
+        "top": "voor: Zwolle, Meppel",
+        "bottom": "Hoogeveen, Beilen, Assen"
+      },
+      {
+        "top": "Amersfoort Schothorst",
+        "bottom": "Nijkerk, Putten, Ermelo"
+      },
+      {
+        "top": "voor: Zwolle, Assen",
+        "bottom": ""
+      },
+      {
+        "top": "Zwolle, Meppel",
+        "bottom": "Hoogeveen, Beilen, Assen"
+      },
+      {
+        "top": "Zwolle, Assen",
+        "bottom": ""
+      },
+      {
+        "top": "Harderwijk, Zwolle",
+        "bottom": "Meppel, Steenwijk"
+      },
+      {
+        "top": "Zwolle, Steenwijk",
+        "bottom": "Heerenveen"
+      },
+      {
+        "top": "Amersfoort Schothorst",
+        "bottom": "Nijkerk, Ermelo, Harderwijk"
+      },
+      {
+        "top": "Zwolle",
+        "bottom": ""
+      },
+      {
+        "top": "Zwolle, Meppel",
+        "bottom": "Steenwijk"
+      },
+      {
+        "top": "Amsterdam Zuid WTC",
+        "bottom": ""
+      },
+      {
+        "top": "Hilversum",
+        "bottom": ""
+      },
+      {
+        "top": "voor: Amsterdam Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "Baarn, Hilversum",
+        "bottom": "Naarden-Bussum, Weesp"
+      },
+      {
+        "top": "Nijkerk, Harderwijk",
+        "bottom": ""
+      },
+      {
+        "top": "Nijkerk, Harderwijk",
+        "bottom": "Zwolle, Meppel"
+      },
+      {
+        "top": "Duivendrecht, A’dam Zuid WTC",
+        "bottom": ""
+      },
+      {
+        "top": "voor: Utrecht CS",
+        "bottom": "’s-Hertogenbosch"
+      },
+      {
+        "top": "Amsterdam Sloterdijk",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": "Utrecht Centraal"
+      },
+      {
+        "top": "Den Dolder, Bilthoven",
+        "bottom": "Utrecht Overvecht"
+      },
+      {
+        "top": "Reizigers voor de Intercity",
+        "bottom": "naar Schiphol of Amsterdam C"
+      },
+      {
+        "top": "Amersfoort Vathorst, Nijkerk",
+        "bottom": "Putten, Ermelo"
+      },
+      {
+        "top": "voor: Utrecht Centraal, Gouda",
+        "bottom": "Voorburg"
+      },
+      {
+        "top": "voor: Utrecht Centraal, Voorburg",
+        "bottom": ""
+      },
+      {
+        "top": "Utrecht Centraal, Gouda",
+        "bottom": "Voorburg"
+      },
+      {
+        "top": "Den Dolder, Bilthoven",
+        "bottom": ""
+      },
+      {
+        "top": "Utrecht Centraal, Voorburg",
+        "bottom": ""
+      },
+      {
+        "top": "Harderwijk, Zwolle",
+        "bottom": ""
+      },
+      {
+        "top": "voor: Nijkerk, Harderwijk",
+        "bottom": "Zwolle, Meppel"
+      },
+      {
+        "top": "Deventer, Hengelo, Bad Bentheim",
+        "bottom": "Rheine, Osnabrück"
+      },
+      {
+        "top": "Arnhem, Oberhausen",
+        "bottom": "Duisburg"
+      },
+      {
+        "top": "Arnhem, Emmerich",
+        "bottom": "Oberhausen, Duisburg"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Trein wordt niet gesplitst in",
+        "bottom": "Amersfoort, maar in Weesp"
+      },
+      {
+        "top": "Achterste treindeel blijft",
+        "bottom": "in Amersfoort"
+      },
+      {
+        "top": "Achterste treindeel tot",
+        "bottom": "Zwolle"
+      },
+      {
+        "top": "Deventer, Hengelo",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Apeldoorn, Deventer,",
+        "bottom": "-Colmschate, Holten, Rijssen"
+      },
+      {
+        "top": "Hengelo, Bad Bentheim, Rheine",
+        "bottom": "Osnabrück, Hannover Hbf"
+      },
+      {
+        "top": "",
+        "bottom": "Münster, Osnabrück, Bremen"
+      },
+      {
+        "top": "Bad Bentheim",
+        "bottom": "Dortmund Hbf"
+      },
+      {
+        "top": "Apeldoorn",
+        "bottom": ""
+      },
+      {
+        "top": "Apeldoorn, Deventer, Almelo",
+        "bottom": "Hengelo, Bad Bentheim, Rheine"
+      },
+      {
+        "top": "Apeldoorn, Deventer",
+        "bottom": "Almelo, Hengelo"
+      },
+      {
+        "top": "voor: Apeldoorn, Deventer",
+        "bottom": "Almelo, Hengelo"
+      },
+      {
+        "top": "Barneveld Noord",
+        "bottom": "Barneveld Centrum"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      }
+    ],
+    "R1": [
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Achterste treindeel blijft in",
+        "bottom": "Amersfoort"
+      },
+      {
+        "top": "ICE International",
+        "bottom": "reserveren verplicht"
+      },
+      {
+        "top": "CityNightLine",
+        "bottom": "reserveren verplicht"
+      },
+      {
+        "top": "(stopt niet in Duivendrecht",
+        "bottom": "en Amsterdam Zuid WTC)"
+      },
+      {
+        "top": "Vooraan instappen",
+        "bottom": ""
+      },
+      {
+        "top": "Achteraan instappen",
+        "bottom": ""
+      },
+      {
+        "top": "Voor Den Haag Centraal",
+        "bottom": "overstappen in Utrecht Centraal"
+      },
+      {
+        "top": "Voor de richting Amsterdam",
+        "bottom": "overstappen in Weesp"
+      },
+      {
+        "top": "Achterste treindeel tot",
+        "bottom": "Amsterdam Centraal"
+      },
+      {
+        "top": "Wesertal",
+        "bottom": ""
+      },
+      {
+        "top": "via omleidingsroute",
+        "bottom": "naar"
+      },
+      {
+        "top": "Achterste treindeel tot",
+        "bottom": "Zwolle"
+      },
+      {
+        "top": "achter: Zwolle, Assen",
+        "bottom": ""
+      },
+      {
+        "top": "achter: Utrecht Centraal, Voorburg",
+        "bottom": ""
+      },
+      {
+        "top": "Nijkerk, Harderwijk",
+        "bottom": "Zwolle, Meppel"
+      },
+      {
+        "top": "achter: Amsterdam Zuid WTC",
+        "bottom": ""
+      },
+      {
+        "top": "Geen treinverkeer mogelijk",
+        "bottom": "richting Zwolle"
+      },
+      {
+        "top": "Geen treinverkeer mogelijk",
+        "bottom": "richting Apeldoorn"
+      },
+      {
+        "top": "Geen treinverkeer mogelijk",
+        "bottom": "richting Barneveld"
+      },
+      {
+        "top": "Geen treinverkeer mogelijk",
+        "bottom": "richting Hilversum"
+      },
+      {
+        "top": "Geen treinverkeer mogelijk",
+        "bottom": "richting Utrecht Centraal"
+      },
+      {
+        "top": "Trein blijft in Amersfoort",
+        "bottom": ""
+      },
+      {
+        "top": "achter: Zwolle, Meppel, Hoogeveen",
+        "bottom": "Beilen, Assen, Haren"
+      },
+      {
+        "top": "achter: Zwolle, Meppel",
+        "bottom": "Hoogeveen, Beilen, Assen"
+      },
+      {
+        "top": "achter: Utrecht Centraal, Gouda",
+        "bottom": "Voorburg"
+      },
+      {
+        "top": "achter: Duivendrecht",
+        "bottom": "Amsterdam Zuid WTC"
+      },
+      {
+        "top": "Reizigers voor de richting",
+        "bottom": "Groningen of Leeuwarden"
+      },
+      {
+        "top": "De trein richting",
+        "bottom": "Amersfoort Schothorst"
+      },
+      {
+        "top": "(stopt niet in Hilversum)",
+        "bottom": ""
+      },
+      {
+        "top": "De trein richting",
+        "bottom": "Amsterdam Centraal"
+      },
+      {
+        "top": "Voorste treindeel tot",
+        "bottom": "Deventer"
+      },
+      {
+        "top": "De trein in de richting",
+        "bottom": "Schiphol ✈"
+      },
+      {
+        "top": "achter: Apeldoorn, Deventer,",
+        "bottom": "-Colmschate, Holten, Rijssen"
+      },
+      {
+        "top": "midden: Duivendrecht, A’dam RAI",
+        "bottom": "Amsterdam Zuid WTC"
+      },
+      {
+        "top": "midden: Utrecht Centraal",
+        "bottom": "Rotterdam Alexander"
+      },
+      {
+        "top": "Stopt ook in Amsterdam RAI",
+        "bottom": ""
+      },
+      {
+        "top": "achter: Utrecht Centraal",
+        "bottom": "Rotterdam Alexander"
+      },
+      {
+        "top": "midden: Zwolle, Meppel",
+        "bottom": "Steenwijk, Wolvega"
+      },
+      {
+        "top": "achter: Zwolle, Steenwijk",
+        "bottom": "Heerenveen IJsstadion"
+      },
+      {
+        "top": "achter: Zwolle, Meppel",
+        "bottom": "Steenwijk, Heerenveen"
+      },
+      {
+        "top": "achter: Zwolle, Steenwijk",
+        "bottom": "Heerenveen"
+      },
+      {
+        "top": "achter: Zwolle, Meppel",
+        "bottom": "Steenwijk, Wolvega"
+      },
+      {
+        "top": "Geen treinverkeer mogelijk",
+        "bottom": "richting Amsterdam Centraal"
+      },
+      {
+        "top": "(Voor de richting Schiphol ✈",
+        "bottom": "overstappen in Weesp)"
+      },
+      {
+        "top": "De trein in de richting",
+        "bottom": "Zwolle"
+      },
+      {
+        "top": "De trein in de richting",
+        "bottom": "Apeldoorn"
+      },
+      {
+        "top": "De trein in de richting",
+        "bottom": "Barneveld"
+      },
+      {
+        "top": "De trein in de richting",
+        "bottom": "Hilversum"
+      },
+      {
+        "top": "De trein in de richting",
+        "bottom": "Utrecht Centraal"
+      },
+      {
+        "top": "(stopt niet op tussen gelegen",
+        "bottom": "stations)"
+      },
+      {
+        "top": "midden: Zwolle",
+        "bottom": "Steenwijk, Heerenveen"
+      },
+      {
+        "top": "midden: tot Zwolle",
+        "bottom": ""
+      },
+      {
+        "top": "stopt ook in Hilversum",
+        "bottom": ""
+      },
+      {
+        "top": "Voor Leeuwarden",
+        "bottom": "overstappen in Meppel"
+      },
+      {
+        "top": "Ontregeld treinverkeer",
+        "bottom": ""
+      },
+      {
+        "top": "Niet instappen",
+        "bottom": ""
+      },
+      {
+        "top": "Geen treinverkeer mogelijk",
+        "bottom": "richting Amsterdam / Schiphol ✈"
+      },
+      {
+        "top": "Reserveren verplicht",
+        "bottom": ""
+      },
+      {
+        "top": "De trein in de richting",
+        "bottom": "Amsterdam en Schiphol ✈"
+      },
+      {
+        "top": "achter: Nijkerk, Harderwijk",
+        "bottom": "Zwolle, Meppel"
+      },
+      {
+        "top": "(stoptrein tot Utrecht Centraal)",
+        "bottom": ""
+      },
+      {
+        "top": "(vanaf Zwolle stoptrein)",
+        "bottom": ""
+      },
+      {
+        "top": "(sneltrein vanaf Amsterdam C)",
+        "bottom": ""
+      }
+    ],
+    "L2": [
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Weesp, Diemen",
+        "bottom": "Amsterdam Muiderpoort"
+      },
+      {
+        "top": "Amsterdam De Vlugtlaan",
+        "bottom": "Amsterdam Lelylaan"
+      },
+      {
+        "top": "Amsterdam Muiderpoort",
+        "bottom": ""
+      },
+      {
+        "top": "Achterste treindeel blijft in",
+        "bottom": "Amersfoort"
+      },
+      {
+        "top": "Achterste treindeel tot",
+        "bottom": "Deventer"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Weesp, Diemen Zuid",
+        "bottom": "Duivendrecht"
+      },
+      {
+        "top": "Amsterdam Lelylaan",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Heerenveen",
+        "bottom": "Akkrum, Grou-Jirnsum"
+      },
+      {
+        "top": "",
+        "bottom": "Rotterdam Alexander,-Noord"
+      },
+      {
+        "top": "",
+        "bottom": "Voorste treindeel"
+      },
+      {
+        "top": "Op een deel van het traject",
+        "bottom": "vindt busvervoer plaats"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Haren",
+        "bottom": ""
+      },
+      {
+        "top": "Harderwijk, Nunspeet",
+        "bottom": "’t Harde, Wezep"
+      },
+      {
+        "top": "Wolvega, Heerenveen",
+        "bottom": "Akkrum, Grou-Jirnsum"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "voor: Zwolle, Meppel, Hoogeveen",
+        "bottom": "Beilen, Assen, Haren"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Zwolle, Steenwijk",
+        "bottom": "Heerenveen IJsstadion, Heerenveen"
+      },
+      {
+        "top": "Zwolle, Steenwijk",
+        "bottom": "Heerenveen"
+      },
+      {
+        "top": "Weert, Roermond",
+        "bottom": "Sittard"
+      },
+      {
+        "top": "Diemen Zuid",
+        "bottom": "Duivendrecht"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "A’dam C, -Sloterdijk, Zaandam",
+        "bottom": "Uitgeest, Castricum, Heiloo"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Amsterdam Centraal, -Sloterdijk",
+        "bottom": "Zaandam, Castricum, Heiloo"
+      },
+      {
+        "top": "Rotterdam Alexander",
+        "bottom": ""
+      },
+      {
+        "top": "Helmond Brouwhuis, Deurne",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "worden verzocht via",
+        "bottom": "Utrecht Centraal te reizen"
+      },
+      {
+        "top": "Roermond, Sittard",
+        "bottom": ""
+      },
+      {
+        "top": "Voorburg",
+        "bottom": ""
+      },
+      {
+        "top": "Utrecht Centraal, Voorburg",
+        "bottom": ""
+      },
+      {
+        "top": "’s-Hertogenbosch",
+        "bottom": ""
+      },
+      {
+        "top": "Utrecht Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "midden: Deventer",
+        "bottom": ""
+      },
+      {
+        "top": "Wolvega, IJsstadion, Heerenveen",
+        "bottom": "Akkrum, Grou-Jirnsum"
+      },
+      {
+        "top": "Utrecht Centraal",
+        "bottom": "Rotterdam Alexander"
+      },
+      {
+        "top": "Weesp, Diemen Zuid, Duivendrecht",
+        "bottom": "Amsterdam RAI, -Zuid WTC"
+      },
+      {
+        "top": "Diemen Zuid, Duivendrecht",
+        "bottom": "Amsterdam RAI, -Zuid WTC"
+      },
+      {
+        "top": "Bad Bentheim, Rheine",
+        "bottom": ""
+      },
+      {
+        "top": "Hannover, Wolfsburg",
+        "bottom": "Berlin Spandau"
+      },
+      {
+        "top": "Düsseldorf, Köln Hbf",
+        "bottom": "Frankfurt Flughafen"
+      },
+      {
+        "top": "Düsseldorf, Köln-Deutz",
+        "bottom": "Frankfurt Flughafen"
+      },
+      {
+        "top": "Düsseldorf, Köln Hbf, Bonn",
+        "bottom": "Koblenz"
+      },
+      {
+        "top": "Steenw, Wolvega, Heerenveen Ijs",
+        "bottom": "Heerenveen, Akkrum, Grou-J"
+      },
+      {
+        "top": "Hoogeveen, Beilen",
+        "bottom": "Assen"
+      },
+      {
+        "top": "Hoogeveen, Beilen",
+        "bottom": "Assen, Haren"
+      },
+      {
+        "top": "Steenwijk, Wolvega, Heerenveen",
+        "bottom": "Akkrum, Grou-Jirnsum"
+      },
+      {
+        "top": "Amsterdam Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Bad Bentheim, Rheine",
+        "bottom": "Osnabrück, Minden"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Wierden, Almelo, -de Riet",
+        "bottom": "Borne, Hengelo"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Lunteren, Ede Centrum",
+        "bottom": "Ede-Wageningen, Wolfheze"
+      },
+      {
+        "top": "Bad Bentheim",
+        "bottom": ""
+      },
+      {
+        "top": "Leipzig Hbf",
+        "bottom": "Dresden Hbf"
+      },
+      {
+        "top": "Puttgarden, Rødby, Nykøbing",
+        "bottom": ""
+      },
+      {
+        "top": "Osnabrück, Bünde",
+        "bottom": "Bad Oeynhausen, Minden"
+      },
+      {
+        "top": "Lunteren, Ede Centrum",
+        "bottom": ""
+      }
+    ],
+    "R2": [
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Vooraan instappen",
+        "bottom": ""
+      },
+      {
+        "top": "Achterste treindeel blijft in",
+        "bottom": "Amersfoort"
+      },
+      {
+        "top": "Achterste treindeel tot",
+        "bottom": "Zwolle"
+      },
+      {
+        "top": "Achterste treindeel tot",
+        "bottom": "Deventer"
+      },
+      {
+        "top": "voor Enschede",
+        "bottom": "overstappen in Hengelo"
+      },
+      {
+        "top": "Voor verdere bestemmingen",
+        "bottom": "overstappen in:"
+      },
+      {
+        "top": "Achteraan instappen",
+        "bottom": ""
+      },
+      {
+        "top": "voor Leeuwarden",
+        "bottom": "overstappen in Zwolle"
+      },
+      {
+        "top": "vanaf Zwolle stoptrein",
+        "bottom": ""
+      },
+      {
+        "top": "via omleidingsroute",
+        "bottom": "naar"
+      },
+      {
+        "top": "",
+        "bottom": "Trein rijdt tot station"
+      },
+      {
+        "top": "Voorburg",
+        "bottom": ""
+      },
+      {
+        "top": "Haren",
+        "bottom": ""
+      },
+      {
+        "top": "Steenw, Wolvega, Heerenveen Ijs",
+        "bottom": "Heerenveen, Akkrum, Grou-J"
+      },
+      {
+        "top": "Steenwijk, Wolvega, Heerenveen",
+        "bottom": "Akkrum, Grou-Jirnsum"
+      },
+      {
+        "top": "Op een deel van het traject",
+        "bottom": "vindt busvervoer plaats"
+      },
+      {
+        "top": "stopt ook in Amsterdam RAI",
+        "bottom": ""
+      },
+      {
+        "top": "Hoogeveen, Beilen",
+        "bottom": "Assen, Haren"
+      },
+      {
+        "top": "Deze trein zal vandaag",
+        "bottom": "niet rijden"
+      },
+      {
+        "top": "Hoogeveen, Beilen",
+        "bottom": "Assen"
+      },
+      {
+        "top": "Bussen vertrekken van",
+        "bottom": "het Stationsplein"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Voor Rotterdam Centraal",
+        "bottom": "overstappen in Utrecht Centraal"
+      },
+      {
+        "top": "Emsland",
+        "bottom": ""
+      },
+      {
+        "top": "Amstelland",
+        "bottom": ""
+      },
+      {
+        "top": "IJsselmeer",
+        "bottom": ""
+      },
+      {
+        "top": "stopt ook in Diemen en",
+        "bottom": "Amsterdam Muiderpoort"
+      },
+      {
+        "top": "worden verzocht via",
+        "bottom": "Deventer te reizen"
+      },
+      {
+        "top": "",
+        "bottom": "Achterste treindeel"
+      },
+      {
+        "top": "Ontregelde treinenloop",
+        "bottom": ""
+      },
+      {
+        "top": "Utrecht Centraal",
+        "bottom": "Voorburg"
+      },
+      {
+        "top": "vertrekt heden van spoor 7",
+        "bottom": ""
+      },
+      {
+        "top": "vertrekt heden van spoor 6",
+        "bottom": ""
+      },
+      {
+        "top": "Trein blijft in Amersfoort",
+        "bottom": ""
+      },
+      {
+        "top": "EXPO 2000",
+        "bottom": "1e klas ➜ vooraan"
+      },
+      {
+        "top": "EXPO 2000",
+        "bottom": "1e klas ➜ achteraan"
+      },
+      {
+        "top": "Wierden, Almelo,-de Riet",
+        "bottom": "Borne, Hengelo"
+      },
+      {
+        "top": "Capelle Schollevaar",
+        "bottom": "Rotterdam Alexander,-Noord"
+      },
+      {
+        "top": "Heerenveen, Akkrum",
+        "bottom": "Grou-Jirnsum"
+      },
+      {
+        "top": "Heerenveen IJsstadion, Heerenveen",
+        "bottom": "Akkrum, Grou-Jirnsum"
+      },
+      {
+        "top": "Heerenveen",
+        "bottom": ""
+      },
+      {
+        "top": "Heerenveen, Akkrum",
+        "bottom": "Grou-Jirnsum"
+      },
+      {
+        "top": "vertrekt heden van spoor 4a/b",
+        "bottom": ""
+      },
+      {
+        "top": "vertrekt heden van spoor 4b",
+        "bottom": ""
+      },
+      {
+        "top": "vertrekt heden van spoor 4",
+        "bottom": ""
+      },
+      {
+        "top": "vertrekt heden van spoor 2b/c",
+        "bottom": ""
+      },
+      {
+        "top": "vertrekt heden van spoor 2c",
+        "bottom": ""
+      },
+      {
+        "top": "vertrekt heden van spoor 2",
+        "bottom": ""
+      },
+      {
+        "top": "vertrekt heden van spoor 1",
+        "bottom": ""
+      },
+      {
+        "top": "vertrekt heden van spoor 5",
+        "bottom": ""
+      },
+      {
+        "top": "vertrekt heden van spoor 5b",
+        "bottom": ""
+      },
+      {
+        "top": "vertrekt heden van spoor 5a/b",
+        "bottom": ""
+      },
+      {
+        "top": "1e Klas",
+        "bottom": "➜ vooraan"
+      },
+      {
+        "top": "1e Klas",
+        "bottom": "➜ achteraan"
+      },
+      {
+        "top": "Utrecht Centraal",
+        "bottom": "Rotterdam Alexander"
+      },
+      {
+        "top": "Voor Amsterdam Centraal",
+        "bottom": "overstappen in Duivendrecht"
+      },
+      {
+        "top": "(stopt niet op tussengelegen",
+        "bottom": "stations)"
+      },
+      {
+        "top": "Voor Groningen overstappen",
+        "bottom": "in Zwolle"
+      },
+      {
+        "top": "",
+        "bottom": "’s-Hertogenbosch"
+      },
+      {
+        "top": "Bussen vertrekken bij",
+        "bottom": "uitgang B Wuytierslaan"
+      },
+      {
+        "top": "København H",
+        "bottom": ""
+      },
+      {
+        "top": "Berlin",
+        "bottom": ""
+      },
+      {
+        "top": "Schiphol✈",
+        "bottom": ""
+      }
+    ],
+    "L3": [
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Amsterdam Centraal,-Sloterdijk,",
+        "bottom": "-De Vlugtlaan,-Lelylaan"
+      },
+      {
+        "top": "Amsterdam Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Amsterdam RAI",
+        "bottom": "Amsterdam Zuid WTC"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Leeuwarden",
+        "bottom": ""
+      },
+      {
+        "top": "København",
+        "bottom": ""
+      },
+      {
+        "top": "Rotterdam Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "stoptrein Hoofddorp",
+        "bottom": ""
+      },
+      {
+        "top": "Amsterdam Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Decin, Usti nad Labem",
+        "bottom": "Praha-Holesovice"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Groningen",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Schiphol✈",
+        "bottom": ""
+      },
+      {
+        "top": "Schiphol✈",
+        "bottom": "Hoofddorp, verder stoptrein"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "voor: Amsterdam C",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Amersfoort Schothorst",
+        "bottom": ""
+      },
+      {
+        "top": "stopt ook in Amsterdam Sloterdijk",
+        "bottom": "en Amsterdam Lelylaan"
+      },
+      {
+        "top": "Alkmaar",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Alkmaar, Alkmaar Noord",
+        "bottom": "Heerhugowaard"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Den Haag Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Hannover Hbf, Wolfsburg",
+        "bottom": "Berlin"
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Mainz, Mannheim, Karlsruhe",
+        "bottom": "Basel SBB, Bern"
+      },
+      {
+        "top": "Berlin Zoo, -Ostbahnhof,",
+        "bottom": "-Flughafen Schönefeld"
+      },
+      {
+        "top": "Amsterdam Sloterdijk",
+        "bottom": ""
+      },
+      {
+        "top": "Amsterdam Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Hannover Hbf, Braunschweig",
+        "bottom": "Magdeburg, Brandenburg"
+      },
+      {
+        "top": "Hannover Hbf",
+        "bottom": "Braunschweig, Magdeburg"
+      },
+      {
+        "top": "Hannover Hbf, Wolfsburg",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Sneltrein Enschede",
+        "bottom": ""
+      },
+      {
+        "top": "Oosterbeek",
+        "bottom": ""
+      },
+      {
+        "top": "Hannover Hbf",
+        "bottom": ""
+      },
+      {
+        "top": "Intercity Enschede",
+        "bottom": ""
+      }
+    ],
+    "R3": [
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Amsterdam Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "Schiphol✈",
+        "bottom": ""
+      },
+      {
+        "top": "Hoofddorp",
+        "bottom": ""
+      },
+      {
+        "top": "Zwolle",
+        "bottom": ""
+      },
+      {
+        "top": "Leeuwarden",
+        "bottom": ""
+      },
+      {
+        "top": "Groningen",
+        "bottom": ""
+      },
+      {
+        "top": "Nunspeet",
+        "bottom": ""
+      },
+      {
+        "top": "Utrecht Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Rotterdam Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "Den Haag Centraal",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Hannover-Laatzen",
+        "bottom": ""
+      },
+      {
+        "top": "Praha hl.n.",
+        "bottom": ""
+      },
+      {
+        "top": "Maastricht",
+        "bottom": ""
+      },
+      {
+        "top": "Heerlen",
+        "bottom": ""
+      },
+      {
+        "top": "Ede-Wageningen",
+        "bottom": ""
+      },
+      {
+        "top": "stoptrein Enschede",
+        "bottom": ""
+      },
+      {
+        "top": "Enschede",
+        "bottom": ""
+      },
+      {
+        "top": "Berlin Hbf",
+        "bottom": ""
+      },
+      {
+        "top": "Hannover Hbf",
+        "bottom": ""
+      },
+      {
+        "top": "Braunschweig Hbf",
+        "bottom": ""
+      },
+      {
+        "top": "Deventer",
+        "bottom": ""
+      },
+      {
+        "top": "København H",
+        "bottom": ""
+      },
+      {
+        "top": "Apeldoorn",
+        "bottom": ""
+      },
+      {
+        "top": "▭ Warszawa ▭ Moskwa",
+        "bottom": ""
+      },
+      {
+        "top": "Arnhem",
+        "bottom": ""
+      },
+      {
+        "top": "Schagen",
+        "bottom": ""
+      },
+      {
+        "top": "Berlin Zoo",
+        "bottom": ""
+      },
+      {
+        "top": "Alkmaar",
+        "bottom": ""
+      },
+      {
+        "top": "Amsterdam Sloterdijk",
+        "bottom": ""
+      },
+      {
+        "top": "Hilversum",
+        "bottom": ""
+      },
+      {
+        "top": "Naarden-Bussum",
+        "bottom": ""
+      },
+      {
+        "top": "Weesp",
+        "bottom": ""
+      },
+      {
+        "top": "Harderwijk",
+        "bottom": ""
+      },
+      {
+        "top": "Putten",
+        "bottom": ""
+      },
+      {
+        "top": "Utrecht Overvecht",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Amersfoort Vathorst",
+        "bottom": ""
+      },
+      {
+        "top": "Weert",
+        "bottom": ""
+      },
+      {
+        "top": "Amsterdam Zuid WTC",
+        "bottom": ""
+      },
+      {
+        "top": "stoptrein Hoofddorp",
+        "bottom": ""
+      },
+      {
+        "top": "verder stoptrein Enkhuizen",
+        "bottom": ""
+      },
+      {
+        "top": "Berlin Charlottenburg",
+        "bottom": ""
+      },
+      {
+        "top": "Roosendaal",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Szczecin Glowny",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "verder stoptrein naar",
+        "bottom": "Den Haag Centraal"
+      },
+      {
+        "top": "stoptrein Amsterdam Lelylaan",
+        "bottom": ""
+      },
+      {
+        "top": "A’dam Lelylaan",
+        "bottom": ""
+      },
+      {
+        "top": "Berlin",
+        "bottom": ""
+      },
+      {
+        "top": "Amersfoort Schothorst",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "achter: Schiphol ✈",
+        "bottom": ""
+      },
+      {
+        "top": "",
+        "bottom": ""
+      },
+      {
+        "top": "Aankomende",
+        "bottom": "Internationale trein"
+      },
+      {
+        "top": "Zürich HB / Garmisch-P",
+        "bottom": ""
+      },
+      {
+        "top": "Zürich HB / München Hbf",
+        "bottom": ""
+      },
+      {
+        "top": "Interlaken Ost",
+        "bottom": ""
+      },
+      {
+        "top": "Frankfurt (Main) Hbf",
+        "bottom": ""
+      },
+      {
+        "top": "Leipzig Hbf",
+        "bottom": ""
+      },
+      {
+        "top": "Berlin Ostbahnhof",
+        "bottom": ""
+      }
+    ]
+  }
+}

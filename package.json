@@ -1,0 +1,13 @@
+{
+  "name": "raildisplay",
+  "version": "0.5.0",
+  "private": true,
+  "description": "RailDisplay - digitale reconstructie van de NS AMF CTA Type 1 split-flap vertrekborden",
+  "type": "module",
+  "scripts": {
+    "build:data": "node js/excel.js data/CTA_AMF.xlsx data/cta.json"
+  },
+  "devDependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
