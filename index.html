@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>RailDisplay — AMF CTA</title>
+  <link rel="stylesheet" href="css/cta.css">
+</head>
+<body>
+  <header class="toolbar">
+    <div class="brand">RailDisplay — AMF CTA<small id="version">gegevens laden…</small></div>
+    <button id="prev" type="button">◀ vorige</button>
+    <select id="position" aria-label="Flappositie"></select>
+    <button id="next" type="button">volgende ▶</button>
+    <button id="play" class="primary" type="button">doorloop</button>
+  </header>
+
+  <main>
+    <section class="stage" id="stage">
+      <div class="scaler" id="scaler">
+        <div class="cabinet"><div class="inner">
+          <div class="top-left">
+            <div class="fixed">Vertrek</div>
+            <div class="cell time" data-cell="UUR"></div>
+            <div class="cell time" data-cell="MIN"></div>
+          </div>
+          <div class="cell kop" data-cell="KOP"></div>
+          <div class="cell l1" data-cell="L1"></div><div class="cell r1" data-cell="R1"></div>
+          <div class="cell l2" data-cell="L2"></div><div class="cell r2" data-cell="R2"></div>
+          <div class="cell l3" data-cell="L3"></div><div class="cell r3" data-cell="R3"></div>
+          <div class="track"><div class="track-card"><b>spoor</b><span>14ᵇ</span></div></div>
+        </div></div>
+      </div>
+    </section>
+
+    <section class="service">
+      <div class="summary">
+        <div class="card"><small>Technische positie</small><strong id="tech">—</strong></div>
+        <div class="card"><small>Getoond nummer</small><strong id="shown">—</strong></div>
+        <div class="card"><small>Bron</small><strong id="source">—</strong></div>
+        <div class="card"><small>Status</small><strong id="state">—</strong></div>
+      </div>
+      <div class="note" id="note"></div>
+      <div class="audit-table" id="audit"></div>
+    </section>
+  </main>
+  <script src="js/app.js" defer></script>
+</body>
+</html>
