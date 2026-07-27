@@ -1,0 +1,221 @@
+{
+  "version": "2.5",
+  "range": [
+    0,
+    3
+  ],
+  "positions": [
+    {
+      "position": 0,
+      "displayedNumber": "—",
+      "source": "IMG_5257.PNG",
+      "status": "confirmed",
+      "note": "Volledig lege opstelling.",
+      "cells": {
+        "KOP": [],
+        "L1": [],
+        "R1": [],
+        "L2": [],
+        "R2": [],
+        "L3": [],
+        "R3": []
+      }
+    },
+    {
+      "position": 1,
+      "displayedNumber": "00",
+      "source": "IMG_5258.PNG",
+      "status": "confirmed",
+      "note": "",
+      "cells": {
+        "KOP": [
+          {
+            "text": "Internationale trein",
+            "color": "blue"
+          }
+        ],
+        "L1": [
+          {
+            "text": "Baarn, Hilversum, -Noord",
+            "color": "blue"
+          },
+          {
+            "text": "Bussum Zuid, Naarden-Bussum",
+            "color": "blue"
+          }
+        ],
+        "R1": [
+          {
+            "text": "Achterste treindeel blijft in",
+            "color": "red"
+          },
+          {
+            "text": "Amersfoort",
+            "color": "red"
+          }
+        ],
+        "L2": [
+          {
+            "text": "Weesp, Diemen",
+            "color": "blue"
+          },
+          {
+            "text": "Amsterdam Muiderpoort",
+            "color": "blue"
+          }
+        ],
+        "R2": [
+          {
+            "text": "Vooraan instappen",
+            "color": "red"
+          }
+        ],
+        "L3": [
+          {
+            "text": "Amsterdam Centraal, -Sloterdijk,",
+            "color": "blue"
+          },
+          {
+            "text": "-De Vlugtlaan, -Lelylaan",
+            "color": "blue"
+          }
+        ],
+        "R3": [
+          {
+            "text": "Amsterdam Centraal",
+            "color": "blue",
+            "size": "large"
+          }
+        ]
+      }
+    },
+    {
+      "position": 2,
+      "displayedNumber": "01",
+      "source": "IMG_5259.PNG",
+      "status": "confirmed",
+      "note": "ICE-logo en vliegtuigpictogram bevestigd.",
+      "cells": {
+        "KOP": [
+          {
+            "text": "Intercity",
+            "color": "blue",
+            "size": "large"
+          }
+        ],
+        "L1": [
+          {
+            "text": "Amsterdam Centraal",
+            "color": "blue"
+          }
+        ],
+        "R1": [
+          {
+            "text": "ICE International",
+            "color": "blue",
+            "logo": "ICE"
+          },
+          {
+            "text": "reserveren verplicht",
+            "color": "red"
+          }
+        ],
+        "L2": [
+          {
+            "text": "Amsterdam De Vlugtlaan",
+            "color": "blue"
+          },
+          {
+            "text": "Amsterdam Lelylaan",
+            "color": "blue"
+          }
+        ],
+        "R2": [
+          {
+            "text": "Achterste treindeel blijft",
+            "color": "red"
+          },
+          {
+            "text": "in Amersfoort",
+            "color": "red"
+          }
+        ],
+        "L3": [
+          {
+            "text": "Amsterdam Centraal",
+            "color": "blue",
+            "size": "large"
+          }
+        ],
+        "R3": [
+          {
+            "text": "Schiphol ✈",
+            "color": "blue",
+            "size": "large"
+          }
+        ]
+      }
+    },
+    {
+      "position": 3,
+      "displayedNumber": "02",
+      "source": "IMG_5260.PNG",
+      "status": "confirmed",
+      "note": "CityNightLine-logo bevestigd.",
+      "cells": {
+        "KOP": [
+          {
+            "text": "Stoptrein",
+            "color": "blue",
+            "size": "large"
+          }
+        ],
+        "L1": [
+          {
+            "text": "Hilversum, Amsterdam Centraal",
+            "color": "blue"
+          },
+          {
+            "text": "Amsterdam Sloterdijk",
+            "color": "blue"
+          }
+        ],
+        "R1": [
+          {
+            "text": "CityNightLine",
+            "color": "blue",
+            "logo": "CNL"
+          },
+          {
+            "text": "reserveren verplicht",
+            "color": "red"
+          }
+        ],
+        "L2": [
+          {
+            "text": "Amsterdam Muiderpoort",
+            "color": "blue"
+          }
+        ],
+        "R2": [
+          {
+            "text": "Achterste treindeel tot",
+            "color": "red"
+          },
+          {
+            "text": "Zwolle",
+            "color": "blue"
+          }
+        ],
+        "L3": [],
+        "R3": [
+          {
+            "text": "Hoofddorp",
+            "color": "blue",
+            "size": "large"
+          }
+        ]
+      }
+    }
+  ]
+}
