@@ -1,0 +1,12 @@
+{
+  "model": "NS AMF CTA Type 1",
+  "version": "2.5",
+  "scope": "Foto-audit 00–15 plus lege beginstand",
+  "chunks": [
+    "data/positions-00-03.json",
+    "data/positions-04-07.json",
+    "data/positions-08-11.json",
+    "data/positions-12-15.json",
+    "data/positions-16-16.json"
+  ]
+}
